@@ -1,0 +1,5 @@
+res://Assets/Scenes/main.tscn
+res://Assets/Scenes/tile_map.tscn
+res://Assets/Scenes/level_1.tscn
+res://Assets/Scenes/Player.tscn
+res://Assets/Scripts/Player.gd
